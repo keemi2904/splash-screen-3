@@ -1,0 +1,7 @@
+{
+  "name": "splash screen 3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
